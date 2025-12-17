@@ -1,6 +1,5 @@
 ---
 title: Up and Up
-subtitle: a list of books I read
 layout: "page"
 hide: true
 ---

@@ -1,6 +1,5 @@
 ---
 title: Depths of Makhbelka
-subtitle: a list of books I read
 layout: "page"
 hide: true
 ---

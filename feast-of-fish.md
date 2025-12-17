@@ -1,6 +1,5 @@
 ---
 title: Feast of Fish
-subtitle: a list of books I read
 layout: "page"
 hide: true
 ---
