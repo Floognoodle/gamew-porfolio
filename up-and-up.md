@@ -2,6 +2,7 @@
 title: Up and Up
 subtitle: a list of books I read
 layout: "page"
+hide: true
 ---
 
 I love books! Here are some I'm reading now:
